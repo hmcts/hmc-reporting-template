@@ -125,7 +125,7 @@ Create docker image:
   docker-compose build
 ```
 
-Run the distribution (created in `build/install/spring-boot-template` directory)
+Run the distribution (created in `build/install/hmc-reporting-template` directory)
 by executing the following command:
 
 ```bash
